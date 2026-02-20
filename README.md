@@ -1,4 +1,4 @@
-##Project Idea Suggestion System - itactuallyworks
+Project Idea Suggestion System - itactuallyworks
 
 ## Description
 itactuallyworks is a website designed for students. It provides **personalized project ideas** by analyzing user skills, domain preferences, and difficulty level. The platform supports **structured and meaningful project development**, helping students select and work on projects that match their capabilities and interests.
